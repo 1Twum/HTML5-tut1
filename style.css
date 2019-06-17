@@ -128,7 +128,7 @@ body{
   border-top-left-radius: 8px;
   border-bottom-left-radius:8px;
   padding: 8px;
-  margin-bottom: 12px;
+  margin-bottom: 7px;
   /*background-color: #33b5e5;*/
   background-color: #232323;
   /*background-color: #444444;*/
@@ -152,7 +152,7 @@ body{
 .deets2 li{
 	border-radius: 8px;
     padding: 8px;
-    margin-bottom: 12px;
+    margin-bottom: 7px;
     /*background-color: #d1cfcf;*/
     background-color: #eaeaea;
     color: black;
